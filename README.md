@@ -1,53 +1,72 @@
-### Hi there 👋, I'm İbrahim Geyik
+<h1 align="center">Hi 👋, I'm İbrahim Geyik</h1>
+<h3 align="center">🚀 Mobile Developer | SwiftUI • Flutter • iOS Engineer</h3>
 
-🚀 Mobile Developer | iOS & Flutter | SwiftUI Enthusiast
-
----
-
-### 👨‍💻 About Me
-
-Hi, I'm İbrahim — a mobile developer passionate about building modern, clean and user-focused applications.
-
-- 📱 Developing mobile apps with **SwiftUI, Flutter and Java**
-- 🎨 Interested in UI/UX design and smooth user experiences
-- ⚡ Focused on performance, clean architecture and modern mobile technologies
-- 🧠 Always learning new frameworks and tools
-
----
-
-### 🛠️ Tech Stack
-
-- SwiftUI
-- Flutter / Dart
-- Java
-- HTML / CSS
-- Mobile UI/UX Design
-
----
-
-### 🔥 Current Focus
-
-- iOS Development with SwiftUI
-- Modern onboarding & UI systems
-- Subscription / Paywall architecture
-- Performance-focused mobile apps
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/Ultrest1" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30"/>
-</a>
-<a href="https://www.linkedin.com/in/ibrahim-geyik-255992101/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"/>
-</a>
-<a href="https://twitter.com/geyikibrahim1" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30"/>
-</a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;SwiftUI+Enthusiast;Flutter+Developer;UI%2FUX+Lover;Building+Modern+Apps" />
 </p>
 
 ---
 
-![Profile Image](https://pbs.twimg.com/profile_images/1577335847627755521/bdn_NuIT_400x400.jpg)
+## 👨‍💻 About Me
+
+- 📱 Building modern mobile apps
+- 🚀 iOS Development with SwiftUI
+- 🎨 Clean UI/UX & Smooth Animations
+- ⚡ Performance-focused development
+- 🧠 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-black?style=for-the-badge&logo=swift)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+
+---
+
+## 🔥 Current Projects
+
+- 📱 SwiftUI Fitness Apps
+- 🤖 AI Cleaner App
+- 🎮 SpriteKit Game Development
+- 💳 Subscription & Paywall Systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ultrest1&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ultrest1&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Ultrest1">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="35"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ibrahim-geyik-255992101/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35"/>
+</a>
+
+<a href="https://twitter.com/geyikibrahim1">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="35"/>
+</a>
+
+</p>
+
+---
+
+⭐️ From [İbrahim Geyik](https://github.com/Ultrest1)
