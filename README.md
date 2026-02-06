@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Mobile Developer | SwiftUI • Flutter • iOS Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;SwiftUI+Enthusiast;Flutter+Developer;UI%2FUX+Lover;Building+Modern+Apps" />
+<img src="https://readme-typing-svg.demolab.com/?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;SwiftUI+Enthusiast;Flutter+Developer;UI%2FUX+Lover;Building+Modern+Apps" />
 </p>
 
 ---
@@ -39,13 +39,13 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultrest1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=Ultrest1&theme=tokyonight&cache_seconds=1800" />
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Ultrest1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com?user=Ultrest1&theme=tokyonight&cache_seconds=1800" />
+
+</p>
 
 ---
 
