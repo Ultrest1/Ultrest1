@@ -1,39 +1,38 @@
 <h1 align="center">Hi 👋, I'm İbrahim Geyik</h1>
-<h3 align="center">🚀 Mobile Developer | SwiftUI • Flutter • iOS Engineer</h3>
+<h3 align="center">🍎 iOS Developer | SwiftUI Specialist | Building Modern Apple Apps</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;SwiftUI+Enthusiast;Flutter+Developer;UI%2FUX+Lover;Building+Modern+Apps" />
+<img src="https://readme-typing-svg.demolab.com/?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=iOS+Developer;SwiftUI+Specialist;Apple+Ecosystem+Builder;UI%2FUX+Focused;Creating+Premium+iOS+Apps" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📱 Building modern mobile apps
-- 🚀 iOS Development with SwiftUI
-- 🎨 Clean UI/UX & Smooth Animations
-- ⚡ Performance-focused development
-- 🧠 Always learning new technologies
+- 🍎 Developing modern iOS apps with **SwiftUI**
+- 🚀 Focused on clean architecture & smooth UI animations
+- 🎨 Strong passion for minimal and premium UI design
+- ⚡ Performance & user experience driven development
+- 🧠 Continuously learning Apple frameworks
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-black?style=for-the-badge&logo=swift)
-![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)
+![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple)
+![Xcode](https://img.shields.io/badge/Xcode-black?style=for-the-badge&logo=xcode)
+![UIKit](https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=apple)
 
 ---
 
 ## 🔥 Current Projects
 
 - 📱 SwiftUI Fitness Apps
-- 🤖 AI Cleaner App
+- 🤖 AI Powered iOS Tools
 - 🎮 SpriteKit Game Development
-- 💳 Subscription & Paywall Systems
+- 💳 Subscription & Paywall Systems (RevenueCat)
 
 ---
 
