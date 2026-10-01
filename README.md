@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/ibrahim-geyik-255992101/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/geyikibrahim1">
-    <img src="https://img.shields.io/badge/Follow_on_X-181717?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
-  </a>
 </p>
 
 ---
